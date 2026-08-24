@@ -16,5 +16,5 @@ n = int(input("줄 수를 입력하세요: "))
 
 # n 반복
 for i in range(1, n + 1):
-      # n만큼 "*" 출력
+      # i만큼 "*" 출력
       print(i * "*")
